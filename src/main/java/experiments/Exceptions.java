@@ -3,7 +3,7 @@ package experiments;
 public class Exceptions {
     public static void main(String[] args) {
         String[]strArray = {"str1", "str2", "str3"};
-        System.out.println(strArray[2]);
+       // System.out.println(strArray[2]);
         uncheckedExceptions(strArray);
         try {
             pause();
