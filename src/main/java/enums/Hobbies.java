@@ -1,6 +1,8 @@
 package enums;
 
-public class Hobbies {
+public enum Hobbies {
+
+
     SPORTS("//label[@for='hobbies-checkbox-1']"),
     READING("//label[@for='hobbies-checkbox-2']"),
     MUSIC("//label[@for='hobbies-checkbox-3']");
